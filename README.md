@@ -16,4 +16,4 @@ This repository contains my coding assignments and projects from coursework.
 ## How to Use  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/course-projects.git
+   git clone https://github.com/Adriel4231/course-projects.git
